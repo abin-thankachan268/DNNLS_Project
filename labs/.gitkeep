@@ -1,0 +1,12 @@
+# placeholder
+
+%%writefile src/.gitkeep
+# placeholder
+
+%%writefile results/.gitkeep
+# placeholder
+
+# Commit them
+!git add .
+!git commit -m "Add placeholder files to make folders visible"
+!git push
