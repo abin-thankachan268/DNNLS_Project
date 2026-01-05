@@ -1,0 +1,20 @@
+sample_1
+GT: The turning point came when Mr. Brown manipulated the controls on the Control panel. Every movement Mr. Brown's made was precise, his fingers moving with a practiced ease. The cockpit, now dimly lit, was a shadowy place, with the focus solely on Mr. Brown's actions. As Mr. Brown pressed the switch, a sense of relief washed over him. The anomaly had been resolved, and the flight was back on track. The Mr. Brown's eyes met Captain James's, and for a moment, they shared a silent understanding. 
+
+PRED: The situation escalated as Co-pilot Smith, with his tie still neatly tied and the tension rising again. Mr.-Wilson stood near a desk in the dispatch office; he was focused on the controls but couldn't help himself. The weight of responsibility placed him at risk for any future mishaps. 
+
+CLIP cos (GT): 0.26883822679519653 | (PRED): 0.2497943639755249
+
+sample_2
+GT: As the tension escalated, a new element was introduced. The Traveler appeared beside a vintage car, standing as a symbol of potential escape. The desolation of the rocky terrain seemed to fade as he inspected the vehicle, his curiosity piqued. He pondered the possibilities, wondering if the car could be the means of their salvation. Would he be able to help The Stranger and The Beggar? The future was uncertain, but one thing was clear – the arrival of The Traveler had brought a turning point in  
+
+PRED: The Stranger continued to watch through binoculars, his eyes fixed on the landscape. The mountains and hills in front of him were a stark contrast with the desolate backdrop that surrounded them; A distant voice spoke from behind the monument. "We must not let this happen again," The Observer said as he 
+
+CLIP cos (GT): 0.2661631107330322 | (PRED): 0.2829119861125946
+
+sample_3
+GT: The Woman's confidence was unwavering as she continued to speak. She knew that her words could either bind The Man and Another Woman or set them free. The rustic hut was suffocating with tension, and she could feel the weight of the situation pressing down on her. The walls and Wall with branches and straw seemed to echo her every word, as if the very structure was holding her secrets. She was aware of the danger that surrounded her, but she was determined to face it head-on. The turning point w 
+
+PRED: The Man spoke, his voice soft and clear. He was unsure of what to make out for himself; he had no idea how the situation would play itself out in front him or with The Woman under the light. "I'm sorry," he said, but it wasn't enough. His words were 
+
+CLIP cos (GT): 0.23437529802322388 | (PRED): 0.22195956110954285
