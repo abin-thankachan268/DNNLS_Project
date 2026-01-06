@@ -1,0 +1,10 @@
+Baseline (multitask supervised):
+- CLIPScore ≈ 0.24 (validation and test)
+
+GAN_improved (cached-caption GAN):
+- Validation CLIPScore: 0.244
+- Test CLIPScore:       0.242
+
+GAN_hardneg (hard-negative GAN):
+- Validation CLIPScore: 0.244
+- Test CLIPScore:       0.243
